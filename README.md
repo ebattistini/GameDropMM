@@ -2,6 +2,9 @@
 
 Tiny macOS utility: drag ROMs onto a square drop zone and they land in the right OnionOS folders on your Miyoo Mini microSD card.
 
+<img width="2262" height="1590" alt="image" src="https://github.com/user-attachments/assets/67532aaf-91b2-4ff2-b12e-4fc48abe238d" />
+
+
 ## What it does
 
 1. Watches `/Volumes` for a Miyoo Mini / OnionOS SD card (`Roms` plus markers like `Emu`, `Bios`, `RetroArch`, …).

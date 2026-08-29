@@ -4,6 +4,7 @@ Tiny macOS utility: drag ROMs onto a square drop zone and they land in the right
 
 <img width="2262" height="1590" alt="image" src="https://github.com/user-attachments/assets/67532aaf-91b2-4ff2-b12e-4fc48abe238d" />
 
+## Download here [Alpha Release](https://github.com/ebattistini/GameDropMM/releases/tag/v1.0)
 
 ## What it does
 
